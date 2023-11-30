@@ -1,49 +1,48 @@
 # Music Player
 
-Este é um projeto de reprodutor de música simples desenvolvido em React Native.
+This is a simple music player project developed in React Native.
 
-## Descrição
+## Description
 
-O Music Player é um reprodutor de música básico que permite aos usuários reproduzir arquivos de áudio em seu dispositivo. Ele oferece uma interface intuitiva para navegar pela biblioteca de músicas, reproduzir, pausar, avançar e retroceder faixas, bem como ajustar o volume.
+The Music Player is a basic music player that allows users to play audio files on their device. It provides an intuitive interface to navigate through the music library, play, pause, skip forward and backward tracks, as well as adjust the volume.
 
-## Funcionalidades
+## Features
 
-- Reproduzir arquivos de áudio (formatos suportados: MP3, WAV, etc.).
-- Pausar e retomar a reprodução.
-- Avançar e retroceder faixas.
-- Ajustar o volume do áudio.
+- Play audio files (supported formats: MP3, WAV, etc.).
+- Pause and resume playback.
+- Skip forward and backward tracks.
+- Adjust the audio volume.
 
-## Instalação
+## Installation
 
-Para executar o projeto localmente, siga estas etapas:
+To run the project locally, follow these steps:
 
-1. Clone este repositório: `git clone https://github.com/JoaoVitorChaves-05/music-player.git`
-2. Navegue até o diretório do projeto: `cd music-player`
-3. Instale as dependências do projeto: `npm install`
+1. Clone this repository: `git clone https://github.com/JoaoVitorChaves-05/music-player.git`
+2. Navigate to the project directory: `cd music-player`
+3. Install project dependencies: `npm install`
 
-## Uso
+## Usage
 
-Após instalar o projeto, siga estas instruções para utilizá-lo:
+After installing the project, follow these instructions to use it:
 
-1. Baixar o app Expo Go, disponível na Google Play Store.
-2. Execute o projeto: `npm start`.
-3. Scaneie o QR Code com o Expo Go.
+1. Download the Expo Go app, available on the Google Play Store.
+2. Run the project: `npm start`.
+3. Scan the QR code with Expo Go.
 
-## Contribuição
+## Contribution
 
-Se você quiser contribuir com melhorias para este projeto, siga estas etapas:
+If you want to contribute improvements to this project, follow these steps:
 
-1. Faça um fork do repositório (https://github.com/JoaoVitorChaves-05/music-player/fork)
-2. Crie uma branch para suas alterações: `git checkout -b feature/nova-funcionalidade`
-3. Faça commit das suas alterações: `git commit -am 'Adicionar nova funcionalidade'`
-4. Envie para a branch criada: `git push origin feature/nova-funcionalidade`
-5. Crie um novo Pull Request
+1. Fork the repository (https://github.com/JoaoVitorChaves-05/music-player/fork)
+2. Create a branch for your changes: `git checkout -b feature/new-feature`
+3. Commit your changes: `git commit -am 'Add new feature'`
+4. Push to the created branch: `git push origin feature/new-feature`
+5. Create a new Pull Request
 
-## Licença
+## License
 
-Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para obter mais detalhes.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Contato
+## Contact
 
-Para mais informações ou dúvidas sobre o projeto, entre em contato com João Vitor Mâncio Chaves via email: joaovmanciochaves@gmail.com.
-
+For more information or questions about the project, please contact João Vitor Mâncio Chaves via email: joaovmanciochaves@gmail.com.
