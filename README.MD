@@ -40,9 +40,9 @@ Se você quiser contribuir com melhorias para este projeto, siga estas etapas:
 
 ## Licença
 
-Este projeto está licenciado sob a [inserir tipo de licença aqui]. Consulte o arquivo LICENSE para obter mais detalhes.
+Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para obter mais detalhes.
 
 ## Contato
 
-Para mais informações ou dúvidas sobre o projeto, entre em contato com [nome do mantenedor do projeto] via [email ou outros meios de contato].
+Para mais informações ou dúvidas sobre o projeto, entre em contato com João Vitor Mâncio Chaves via email: joaovmanciochaves@gmail.com.
 
