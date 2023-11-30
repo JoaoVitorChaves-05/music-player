@@ -1,6 +1,6 @@
 # Music Player
 
-Este é um projeto de reprodutor de música simples desenvolvido em [inserir linguagem/framework aqui].
+Este é um projeto de reprodutor de música simples desenvolvido em React Native.
 
 ## Descrição
 
@@ -19,14 +19,15 @@ Para executar o projeto localmente, siga estas etapas:
 
 1. Clone este repositório: `git clone https://github.com/JoaoVitorChaves-05/music-player.git`
 2. Navegue até o diretório do projeto: `cd music-player`
-3. [Adicione quaisquer outras etapas de instalação, dependências, configurações, etc.]
+3. Instale as dependências do projeto: `npm install`
 
 ## Uso
 
 Após instalar o projeto, siga estas instruções para utilizá-lo:
 
-1. [Descreva os passos necessários para executar o reprodutor de música].
-2. [Forneça exemplos de comandos, se necessário].
+1. Baixar o app Expo Go, disponível na Google Play Store.
+2. Execute o projeto: `npm start`.
+3. Scaneie o QR Code com o Expo Go.
 
 ## Contribuição
 
